@@ -3,6 +3,7 @@
 The purpose of the new analysis is to create a multiple-line graph that shows the total weekly fares for each city type for the PyBer ride company .
 
 <h2>Results:</h2> 
+ 
  ![image](https://user-images.githubusercontent.com/103130997/170847990-b9538be7-1fe4-448c-b877-c690d55d8c86.png)
 
 As can be observed above The city type with the highest fares from January to May is Urban with the highest amount being $2500 with in February and March and the lowest in the beginning of January more than $1500.While that might be The Urban city types lowest amount it is still higher than the Suburban’s highest fares which was with in the month of March  a little less than $1500.The lowest Fare for the Suburban city types (<$1000)is higher  than the city type with the lowest fare Rural which has a max fare of $500 in April 
